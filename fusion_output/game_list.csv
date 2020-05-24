@@ -1,0 +1,426 @@
+team0,team1,team0_score,team1_score,ot,ot_time,team0_pl,team1_pl,game_num,player_num,time,region,team0_match_score,team1_match_score,team0_win,team1_win,goals_scored
+G2 Esports,Uva,2.0,1.0,True,1:19,"['JKnaps', 'Mile', 'Rizzo']","['fAsi', 'ianpinheiro', 'math']",1,3,"May 21, 2020 - 15:00 PDT",North America,3,0,True,False,3.0
+G2 Esports,Uva,2.0,0.0,False,0:00,"['Chicago', 'Mile']","['ianpinheiro', 'math']",2,2,"May 21, 2020 - 15:00 PDT",North America,3,0,True,False,2.0
+G2 Esports,Uva,8.0,3.0,False,0:00,['Mile'],['ianpinheiro'],3,1,"May 21, 2020 - 15:00 PDT",North America,3,0,True,False,11.0
+Jamal Jabary,Flight,2.0,1.0,False,0:00,"['Lj', 'Spyder', 'Toastie']","['Aeon', 'Sea-Bass', 'rapid']",1,3,"May 21, 2020 - 15:00 PDT",North America,3,1,True,False,3.0
+Jamal Jabary,Flight,3.0,2.0,False,0:00,"['Lj', 'dreaz']","['Aeon', 'rapid']",2,2,"May 21, 2020 - 15:00 PDT",North America,3,1,True,False,5.0
+Jamal Jabary,Flight,4.0,6.0,False,0:00,['dreaz'],['rapid'],3,1,"May 21, 2020 - 15:00 PDT",North America,3,1,False,True,10.0
+Jamal Jabary,Flight,2.0,1.0,True,4:17,"['Lj', 'Spyder', 'Toastie']","['Aeon', 'Sea-Bass', 'rapid']",4,3,"May 21, 2020 - 15:00 PDT",North America,3,1,True,False,3.0
+72 Pin Connector,Warriors International,0.0,2.0,False,0:00,"['Demo', 'Jacob', 'LionBlaze']","['Buddy', 'JWismont', 'Stokelyy']",1,3,"May 21, 2020 - 15:00 PDT",North America,3,1,False,True,2.0
+72 Pin Connector,Warriors International,4.0,3.0,False,0:00,"['Jacob', 'LionBlaze']","['Buddy', 'JWismont']",2,2,"May 21, 2020 - 15:00 PDT",North America,3,1,True,False,7.0
+72 Pin Connector,Warriors International,17.0,5.0,False,0:00,['LionBlaze'],['Buddy'],3,1,"May 21, 2020 - 15:00 PDT",North America,3,1,True,False,22.0
+72 Pin Connector,Warriors International,3.0,1.0,False,0:00,"['Demo', 'Jacob', 'LionBlaze']","['Buddy', 'JWismont', 'Stokelyy']",4,3,"May 21, 2020 - 15:00 PDT",North America,3,1,True,False,4.0
+Susquehanna Soniqs,Enormity eSports,4.0,2.0,False,0:00,"['Dappur', 'Satthew', 'Shock']","['AdverseMeteor', 'Oath', 'Skyzz']",1,3,"May 21, 2020 - 15:00 PDT",North America,3,2,True,False,6.0
+Susquehanna Soniqs,Enormity eSports,5.0,2.0,False,0:00,"['Satthew', 'Shock']","['AdverseMeteor', 'Skyzz']",2,2,"May 21, 2020 - 15:00 PDT",North America,3,2,True,False,7.0
+Susquehanna Soniqs,Enormity eSports,5.0,7.0,False,0:00,['Dappur'],['AdverseMeteor'],3,1,"May 21, 2020 - 15:00 PDT",North America,3,2,False,True,12.0
+Susquehanna Soniqs,Enormity eSports,8.0,9.0,True,0:09,['Dappur'],['AdverseMeteor'],4,1,"May 21, 2020 - 15:00 PDT",North America,3,2,False,True,17.0
+Susquehanna Soniqs,Enormity eSports,2.0,0.0,False,0:00,"['Dappur', 'Satthew', 'Shock']","['AdverseMeteor', 'Oath', 'Skyzz']",5,3,"May 21, 2020 - 15:00 PDT",North America,3,2,True,False,2.0
+NRG Esports,Momentum,3.0,2.0,False,0:00,"['GarrettG', 'Turbopolsa', 'jstn.']","['Mijo', 'Pirates', 'PrimeThunder']",1,3,"May 21, 2020 - 16:00 PDT",North America,3,2,True,False,5.0
+NRG Esports,Momentum,2.0,4.0,False,0:00,"['GarrettG', 'jstn.']","['Mijo', 'Pirates']",2,2,"May 21, 2020 - 16:00 PDT",North America,3,2,False,True,6.0
+NRG Esports,Momentum,6.0,5.0,True,0:08,['GarrettG'],['Mijo'],3,1,"May 21, 2020 - 16:00 PDT",North America,3,2,True,False,11.0
+NRG Esports,Momentum,3.0,4.0,False,0:00,"['GarrettG', 'jstn.']","['Mijo', 'Pirates']",4,2,"May 21, 2020 - 16:00 PDT",North America,3,2,False,True,7.0
+NRG Esports,Momentum,2.0,0.0,False,0:00,"['GarrettG', 'Turbopolsa', 'jstn.']","['Mijo', 'Pirates', 'PrimeThunder']",5,3,"May 21, 2020 - 16:00 PDT",North America,3,2,True,False,2.0
+Stromboli,Ellevens Esports,3.0,1.0,False,0:00,"['AlphaKep', 'Hec', 'JPow']","['CaioTG1', 'caard', 'tander']",1,3,"May 21, 2020 - 16:00 PDT",North America,3,2,True,False,4.0
+Stromboli,Ellevens Esports,6.0,3.0,False,0:00,"['AlphaKep', 'JPow']","['CaioTG1', 'caard']",2,2,"May 21, 2020 - 16:00 PDT",North America,3,2,True,False,9.0
+Stromboli,Ellevens Esports,6.0,7.0,True,0:21,['AlphaKep'],['BRUNOVISQUII'],3,1,"May 21, 2020 - 16:00 PDT",North America,3,2,False,True,13.0
+Stromboli,Ellevens Esports,0.0,2.0,False,0:00,"['AlphaKep', 'Hec', 'JPow']","['CaioTG1', 'caard', 'tander']",4,3,"May 21, 2020 - 16:00 PDT",North America,3,2,False,True,2.0
+Stromboli,Ellevens Esports,10.0,3.0,False,0:00,"['AlphaKep', 'JPow']","['CaioTG1', 'caard']",5,2,"May 21, 2020 - 16:00 PDT",North America,3,2,True,False,13.0
+EUnited,Avidity Esports,3.0,1.0,False,0:00,"['Memory', 'ayjacks', 'hockser']","['FirefoxD', 'Haberkamper', 'renaN']",1,3,"May 21, 2020 - 16:00 PDT",North America,3,0,True,False,4.0
+EUnited,Avidity Esports,4.0,3.0,False,0:00,"['ayjacks', 'hockser']","['FirefoxD', 'renaN']",2,2,"May 21, 2020 - 16:00 PDT",North America,3,0,True,False,7.0
+EUnited,Avidity Esports,6.0,4.0,False,0:00,['ayjacks'],['renaN'],3,1,"May 21, 2020 - 16:00 PDT",North America,3,0,True,False,10.0
+Pittsburgh Knights,Sup,2.0,3.0,True,2:11,"['AlRaz', 'AyyJayy', 'Gyro.']","['Daniel', 'Forky', 'money']",1,3,"May 21, 2020 - 16:00 PDT",North America,3,1,False,True,5.0
+Pittsburgh Knights,Sup,3.0,2.0,True,0:26,"['AyyJayy', 'Gyro.']","['Daniel', 'Forky']",2,2,"May 21, 2020 - 16:00 PDT",North America,3,1,True,False,5.0
+Pittsburgh Knights,Sup,4.0,3.0,True,0:11,['AyyJayy'],['Forky'],3,1,"May 21, 2020 - 16:00 PDT",North America,3,1,True,False,7.0
+Pittsburgh Knights,Sup,4.0,3.0,False,0:00,"['AyyJayy', 'Gyro.']","['Daniel', 'Forky']",4,2,"May 21, 2020 - 16:00 PDT",North America,3,1,True,False,7.0
+Rogue,3 Star Armada,4.0,1.0,False,0:00,"['Kronovi', 'Turinturo', 'firstkiller']","['Astroh', 'Brendan', 'Skillz']",1,3,"May 21, 2020 - 17:00 PDT",North America,3,0,True,False,5.0
+Rogue,3 Star Armada,4.0,3.0,True,0:43,"['Turinturo', 'firstkiller']","['Astroh', 'Skillz']",2,2,"May 21, 2020 - 17:00 PDT",North America,3,0,True,False,7.0
+Rogue,3 Star Armada,6.0,4.0,False,0:00,['firstkiller'],['Skillz'],3,1,"May 21, 2020 - 17:00 PDT",North America,3,0,True,False,10.0
+Plot Twist,Vision,2.0,5.0,False,0:00,"['Taroco', 'mectos', 'sosa']","['BeastMode', 'Kinseh', 'Radoko']",1,3,"May 21, 2020 - 17:00 PDT",North America,3,1,False,True,7.0
+Plot Twist,Vision,3.0,2.0,False,0:00,"['Taroco', 'mectos']","['Kinseh', 'Radoko']",2,2,"May 21, 2020 - 17:00 PDT",North America,3,1,True,False,5.0
+Plot Twist,Vision,8.0,6.0,False,0:00,['Taroco'],['BeastMode'],3,1,"May 21, 2020 - 17:00 PDT",North America,3,1,True,False,14.0
+Plot Twist,Vision,4.0,2.0,False,0:00,"['Taroco', 'mectos', 'sosa']","['BeastMode', 'Kinseh', 'Radoko']",4,3,"May 21, 2020 - 17:00 PDT",North America,3,1,True,False,6.0
+Affinity,Double Tap,2.0,1.0,False,0:00,"['MajicBear', 'Percy', 'creamz']","['Andy', 'Delta', 'Thundah']",1,3,"May 21, 2020 - 17:00 PDT",North America,3,0,True,False,3.0
+Affinity,Double Tap,6.0,5.0,False,0:00,"['MajicBear', 'Percy']","['Andy', 'Jbot']",2,2,"May 21, 2020 - 17:00 PDT",North America,3,0,True,False,11.0
+Affinity,Double Tap,8.0,6.0,False,0:00,['MajicBear'],['Jbot'],3,1,"May 21, 2020 - 17:00 PDT",North America,3,0,True,False,14.0
+Team Envy,Fall,4.0,2.0,False,0:00,"['Atomic', 'mist', 'retals']","['2Piece', 'Chronic', 'ZPS']",1,3,"May 21, 2020 - 17:00 PDT",North America,3,2,True,False,6.0
+Team Envy,Fall,1.0,2.0,False,0:00,"['Atomic', 'mist']","['2Piece', 'Chronic']",2,2,"May 21, 2020 - 17:00 PDT",North America,3,2,False,True,3.0
+Team Envy,Fall,5.0,8.0,False,0:00,['retals'],['Chronic'],3,1,"May 21, 2020 - 17:00 PDT",North America,3,2,False,True,13.0
+Team Envy,Fall,2.0,1.0,True,0:23,"['Atomic', 'mist', 'retals']","['2Piece', 'Chronic', 'ZPS']",4,3,"May 21, 2020 - 17:00 PDT",North America,3,2,True,False,3.0
+Team Envy,Fall,5.0,4.0,False,0:00,['retals'],['Chronic'],5,1,"May 21, 2020 - 17:00 PDT",North America,3,2,True,False,9.0
+Spacestation Gaming,Look at Curry,5.0,2.0,False,0:00,"['Arsenal', 'AxB', 'Sypical']","['FTMHere', 'Wellace', 'qwop']",1,3,"May 21, 2020 - 18:00 PDT",North America,3,0,True,False,7.0
+Spacestation Gaming,Look at Curry,3.0,2.0,True,0:52,"['Arsenal', 'Sypical']","['Wellace', 'qwop']",2,2,"May 21, 2020 - 18:00 PDT",North America,3,0,True,False,5.0
+Spacestation Gaming,Look at Curry,8.0,4.0,False,0:00,['Arsenal'],['FTMHere'],3,1,"May 21, 2020 - 18:00 PDT",North America,3,0,True,False,12.0
+Mirage,Legion,1.0,2.0,False,0:00,"['Comm', 'Freshness', 'Luke']","['Allushin', 'TyNotTyler', 'Wonder']",1,3,"May 21, 2020 - 18:00 PDT",North America,3,2,False,True,3.0
+Mirage,Legion,3.0,2.0,False,0:00,"['Comm', 'Freshness']","['Allushin', 'Wonder']",2,2,"May 21, 2020 - 18:00 PDT",North America,3,2,True,False,5.0
+Mirage,Legion,1.0,0.0,False,0:00,['Comm'],['TyNotTyler'],3,1,"May 21, 2020 - 18:00 PDT",North America,3,2,True,False,1.0
+Mirage,Legion,2.0,3.0,False,0:00,"['Comm', 'Freshness', 'Luke']","['Allushin', 'TyNotTyler', 'Wonder']",4,3,"May 21, 2020 - 18:00 PDT",North America,3,2,False,True,5.0
+Mirage,Legion,6.0,2.0,False,0:00,"['Comm', 'Freshness']","['Allushin', 'Wonder']",5,2,"May 21, 2020 - 18:00 PDT",North America,3,2,True,False,8.0
+Charlotte Phoenix,Divine,4.0,5.0,False,0:00,"['Karma', 'Shadow', 'WondaMike']","['Dino', 'JRuss', 'Porklet']",1,3,"May 21, 2020 - 18:00 PDT",North America,0,3,False,True,9.0
+Charlotte Phoenix,Divine,2.0,5.0,False,0:00,"['Shadow', 'WondaMike']","['Dino', 'JRuss']",2,2,"May 21, 2020 - 18:00 PDT",North America,0,3,False,True,7.0
+Charlotte Phoenix,Divine,3.0,5.0,False,0:00,['WondaMike'],['JRuss'],3,1,"May 21, 2020 - 18:00 PDT",North America,0,3,False,True,8.0
+Cloud9,Team Meteor,2.0,3.0,True,0:15,"['Gimmick', 'Squishy', 'Torment']","['Ahduhm', 'Kirii', 'ostyn']",1,3,"May 21, 2020 - 18:00 PDT",North America,2,3,False,True,5.0
+Cloud9,Team Meteor,8.0,4.0,False,0:00,"['Gimmick', 'Squishy']","['Ahduhm', 'Sharp']",2,2,"May 21, 2020 - 18:00 PDT",North America,2,3,True,False,12.0
+Cloud9,Team Meteor,4.0,8.0,False,0:00,['Gimmick'],['Sharp'],3,1,"May 21, 2020 - 18:00 PDT",North America,2,3,False,True,12.0
+Cloud9,Team Meteor,3.0,1.0,False,0:00,"['Gimmick', 'Squishy', 'Torment']","['Ahduhm', 'Kirii', 'ostyn']",4,3,"May 21, 2020 - 18:00 PDT",North America,2,3,True,False,4.0
+Cloud9,Team Meteor,5.0,6.0,False,0:00,['Squishy'],['Sharp'],5,1,"May 21, 2020 - 18:00 PDT",North America,2,3,False,True,11.0
+G2 Esports,Jamal Jabary,3.0,1.0,False,0:00,"['Chicago', 'JKnaps', 'Rizzo']","['Lj', 'Spyder', 'Toastie']",1,3,"May 21, 2020 - 16:00 PDT",North America,3,0,True,False,4.0
+G2 Esports,Jamal Jabary,4.0,0.0,False,0:00,"['Chicago', 'Mile']","['Lj', 'dreaz']",2,2,"May 21, 2020 - 16:00 PDT",North America,3,0,True,False,4.0
+G2 Esports,Jamal Jabary,3.0,2.0,False,0:00,['Mile'],['dreaz'],3,1,"May 21, 2020 - 16:00 PDT",North America,3,0,True,False,5.0
+72 Pin Connector,Susquehanna Soniqs,2.0,5.0,False,0:00,"['Demo', 'Jacob', 'LionBlaze']","['Dappur', 'Satthew', 'Shock']",1,3,"May 21, 2020 - 16:00 PDT",North America,3,2,False,True,7.0
+72 Pin Connector,Susquehanna Soniqs,3.0,1.0,False,0:00,"['Jacob', 'LionBlaze']","['Satthew', 'Shock']",2,2,"May 21, 2020 - 16:00 PDT",North America,3,2,True,False,4.0
+72 Pin Connector,Susquehanna Soniqs,10.0,4.0,False,0:00,['LionBlaze'],['Dappur'],3,1,"May 21, 2020 - 16:00 PDT",North America,3,2,True,False,14.0
+72 Pin Connector,Susquehanna Soniqs,1.0,2.0,True,0:04,"['Demo', 'Jacob', 'LionBlaze']","['Dappur', 'Satthew', 'Shock']",4,3,"May 21, 2020 - 16:00 PDT",North America,3,2,False,True,3.0
+72 Pin Connector,Susquehanna Soniqs,15.0,4.0,False,0:00,['LionBlaze'],['Dappur'],5,1,"May 21, 2020 - 16:00 PDT",North America,3,2,True,False,19.0
+NRG Esports,Stromboli,1.0,3.0,False,0:00,"['GarrettG', 'Turbopolsa', 'jstn.']","['AlphaKep', 'JPow', 'hec']",1,3,"May 21, 2020 - 17:00 PDT",North America,0,3,False,True,4.0
+NRG Esports,Stromboli,3.0,4.0,False,0:00,"['GarrettG', 'Turbopolsa']","['AlphaKep', 'JPow']",2,2,"May 21, 2020 - 17:00 PDT",North America,0,3,False,True,7.0
+NRG Esports,Stromboli,3.0,8.0,False,0:00,['GarrettG'],['AlphaKep'],3,1,"May 21, 2020 - 17:00 PDT",North America,0,3,False,True,11.0
+EUnited,Pittsburgh Knights,1.0,4.0,False,0:00,"['Memory', 'ayjacks', 'hockser']","['AlRaz', 'AyyJayy', 'Gyro.']",1,3,"May 21, 2020 - 17:00 PDT",North America,3,1,False,True,5.0
+EUnited,Pittsburgh Knights,1.0,0.0,False,0:00,"['ayjacks', 'hockser']","['AyyJayy', 'Gyro.']",2,2,"May 21, 2020 - 17:00 PDT",North America,3,1,True,False,1.0
+EUnited,Pittsburgh Knights,7.0,3.0,False,0:00,['ayjacks'],['AyyJayy'],3,1,"May 21, 2020 - 17:00 PDT",North America,3,1,True,False,10.0
+EUnited,Pittsburgh Knights,1.0,0.0,True,0:18,"['Memory', 'ayjacks', 'hockser']","['AlRaz', 'AyyJayy', 'Gyro.']",4,3,"May 21, 2020 - 17:00 PDT",North America,3,1,True,False,1.0
+Rogue,Plot Twist,1.0,2.0,False,0:00,"['Kronovi', 'Turinturo', 'firstkiller']","['Taroco', 'mectos', 'sosa']",1,3,"May 21, 2020 - 18:00 PDT",North America,3,2,False,True,3.0
+Rogue,Plot Twist,2.0,0.0,False,0:00,"['Turinturo', 'firstkiller']","['Taroco', 'mectos']",2,2,"May 21, 2020 - 18:00 PDT",North America,3,2,True,False,2.0
+Rogue,Plot Twist,6.0,5.0,True,0:11,['firstkiller'],['Taroco'],3,1,"May 21, 2020 - 18:00 PDT",North America,3,2,True,False,11.0
+Rogue,Plot Twist,0.0,1.0,False,0:00,"['Kronovi', 'Turinturo', 'firstkiller']","['Taroco', 'mectos', 'sosa']",4,3,"May 21, 2020 - 18:00 PDT",North America,3,2,False,True,1.0
+Rogue,Plot Twist,4.0,2.0,False,0:00,"['Turinturo', 'firstkiller']","['Taroco', 'mectos']",5,2,"May 21, 2020 - 18:00 PDT",North America,3,2,True,False,6.0
+Affinity,Team Envy,0.0,4.0,False,0:00,"['MajicBear', 'Percy', 'creamz']","['Atomic', 'mist', 'retals']",1,3,"May 21, 2020 - 18:00 PDT",North America,2,3,False,True,4.0
+Affinity,Team Envy,3.0,2.0,False,0:00,"['MajicBear', 'Percy']","['Atomic', 'mist']",2,2,"May 21, 2020 - 18:00 PDT",North America,2,3,True,False,5.0
+Affinity,Team Envy,8.0,7.0,False,0:00,['MajicBear'],['retals'],3,1,"May 21, 2020 - 18:00 PDT",North America,2,3,True,False,15.0
+Affinity,Team Envy,1.0,4.0,False,0:00,"['MajicBear', 'Percy', 'creamz']","['Atomic', 'mist', 'retals']",4,3,"May 21, 2020 - 18:00 PDT",North America,2,3,False,True,5.0
+Affinity,Team Envy,1.0,2.0,False,0:00,"['MajicBear', 'Percy']","['Atomic', 'mist']",5,2,"May 21, 2020 - 18:00 PDT",North America,2,3,False,True,3.0
+Spacestation Gaming,Mirage,4.0,1.0,False,0:00,"['Arsenal', 'AxB', 'Sypical']","['Comm', 'Freshness', 'Luke']",1,3,"May 21, 2020 - 19:00 PDT",North America,3,0,True,False,5.0
+Spacestation Gaming,Mirage,4.0,3.0,False,0:00,"['Arsenal', 'Sypical']","['Comm', 'Freshness']",2,2,"May 21, 2020 - 19:00 PDT",North America,3,0,True,False,7.0
+Spacestation Gaming,Mirage,7.0,6.0,True,0:09,['Arsenal'],['Comm'],3,1,"May 21, 2020 - 19:00 PDT",North America,3,0,True,False,13.0
+Divine,Team Meteor,4.0,1.0,False,0:00,"['Dino', 'JRuss', 'Porklet']","['Ahduhm', 'kirii', 'ostyn']",1,3,"May 21, 2020 - 19:00 PDT",North America,2,3,True,False,5.0
+Divine,Team Meteor,2.0,3.0,False,0:00,"['Dino', 'JRuss']","['Ahduhm', 'Sharp']",2,2,"May 21, 2020 - 19:00 PDT",North America,2,3,False,True,5.0
+Divine,Team Meteor,6.0,2.0,False,0:00,['JRuss'],['Sharp'],3,1,"May 21, 2020 - 19:00 PDT",North America,2,3,True,False,8.0
+Divine,Team Meteor,1.0,2.0,False,0:00,"['Dino', 'JRuss']","['Ahduhm', 'Sharp']",4,2,"May 21, 2020 - 19:00 PDT",North America,2,3,False,True,3.0
+Divine,Team Meteor,1.0,2.0,False,0:00,"['Dino', 'JRuss', 'Porklet']","['Ahduhm', 'kirii', 'ostyn']",5,3,"May 21, 2020 - 19:00 PDT",North America,2,3,False,True,3.0
+G2 Esports,72 Pin Connector,2.0,0.0,False,0:00,"['Chicago', 'JKnaps', 'Rizzo']","['Demo', 'Jacob', 'LionBlaze']",1,3,"May 21, 2020 - 17:00 PDT",North America,2,3,True,False,2.0
+G2 Esports,72 Pin Connector,2.0,3.0,True,1:09,"['Chicago', 'Mile']","['Jacob', 'LionBlaze']",2,2,"May 21, 2020 - 17:00 PDT",North America,2,3,False,True,5.0
+G2 Esports,72 Pin Connector,3.0,7.0,False,0:00,['Mile'],['LionBlaze'],3,1,"May 21, 2020 - 17:00 PDT",North America,2,3,False,True,10.0
+G2 Esports,72 Pin Connector,1.0,0.0,False,0:00,"['Chicago', 'JKnaps', 'Rizzo']","['Demo', 'Jacob', 'LionBlaze']",4,3,"May 21, 2020 - 17:00 PDT",North America,2,3,True,False,1.0
+G2 Esports,72 Pin Connector,6.0,7.0,False,0:00,['Mile'],['LionBlaze'],5,1,"May 21, 2020 - 17:00 PDT",North America,2,3,False,True,13.0
+Stromboli,EUnited,4.0,1.0,False,0:00,"['AlphaKep', 'JPow', 'hec']","['Memory', 'ayjacks', 'hockser']",1,3,"May 21, 2020 - 18:00 PDT",North America,3,0,True,False,5.0
+Stromboli,EUnited,5.0,3.0,False,0:00,"['AlphaKep', 'JPow']","['ayjacks', 'hockser']",2,2,"May 21, 2020 - 18:00 PDT",North America,3,0,True,False,8.0
+Stromboli,EUnited,12.0,2.0,False,0:00,['AlphaKep'],['ayjacks'],3,1,"May 21, 2020 - 18:00 PDT",North America,3,0,True,False,14.0
+Rogue,Team Envy,1.0,3.0,False,0:00,"['Kronovi', 'Turinturo', 'firstkiller']","['Atomic', 'mist', 'retals']",1,3,"May 21, 2020 - 19:00 PDT",North America,3,2,False,True,4.0
+Rogue,Team Envy,2.0,3.0,True,1:54,"['Turinturo', 'firstkiller']","['Atomic', 'retals']",2,2,"May 21, 2020 - 19:00 PDT",North America,3,2,False,True,5.0
+Rogue,Team Envy,10.0,5.0,False,0:00,['firstkiller'],['Atomic'],3,1,"May 21, 2020 - 19:00 PDT",North America,3,2,True,False,15.0
+Rogue,Team Envy,9.0,7.0,False,0:00,['firstkiller'],['Atomic'],4,1,"May 21, 2020 - 19:00 PDT",North America,3,2,True,False,16.0
+Rogue,Team Envy,3.0,2.0,True,1:49,"['Kronovi', 'Turinturo', 'firstkiller']","['Atomic', 'mist', 'retals']",5,3,"May 21, 2020 - 19:00 PDT",North America,3,2,True,False,5.0
+Spacestation Gaming,Team Meteor,3.0,2.0,False,0:00,"['Arsenal', 'AxB', 'Sypical']","['Ahduhm', 'Kirii', 'ostyn']",1,3,"May 21, 2020 - 20:00 PDT",North America,3,2,True,False,5.0
+Spacestation Gaming,Team Meteor,4.0,2.0,False,0:00,"['Arsenal', 'Sypical']","['Ahduhm', 'Sharp']",2,2,"May 21, 2020 - 20:00 PDT",North America,3,2,True,False,6.0
+Spacestation Gaming,Team Meteor,7.0,11.0,False,0:00,['Arsenal'],['Sharp'],3,1,"May 21, 2020 - 20:00 PDT",North America,3,2,False,True,18.0
+Spacestation Gaming,Team Meteor,6.0,7.0,False,0:00,['Sypical'],['Sharp'],4,1,"May 21, 2020 - 20:00 PDT",North America,3,2,False,True,13.0
+Spacestation Gaming,Team Meteor,5.0,1.0,False,0:00,"['Arsenal', 'Sypical']","['Ahduhm', 'Kirii']",5,2,"May 21, 2020 - 20:00 PDT",North America,3,2,True,False,6.0
+Uva,Flight,1.0,4.0,False,0:00,"['fAsi', 'ianpinheiro', 'math']","['Aeon', 'Rapid', 'Sea-Bass']",1,3,"May 21, 2020 - 17:00 PDT",North America,0,3,False,True,5.0
+Uva,Flight,2.0,5.0,False,0:00,"['ianpinheiro', 'math']","['Aeon', 'Rapid']",2,2,"May 21, 2020 - 17:00 PDT",North America,0,3,False,True,7.0
+Uva,Flight,1.0,10.0,False,0:00,['ianpinheiro'],['rapid'],3,1,"May 21, 2020 - 17:00 PDT",North America,0,3,False,True,11.0
+Warriors International,Enormity eSports,5.0,1.0,False,0:00,"['Buddy', 'JWismont', 'Stokelyy']","['AdverseMeteor', 'Oath', 'Skyzz']",1,3,"May 21, 2020 - 17:00 PDT",North America,1,3,True,False,6.0
+Warriors International,Enormity eSports,1.0,2.0,False,0:00,"['Buddy', 'JWismont']","['AdverseMeteor', 'Oath']",2,2,"May 21, 2020 - 17:00 PDT",North America,1,3,False,True,3.0
+Warriors International,Enormity eSports,2.0,8.0,False,0:00,['Buddy'],['AdverseMeteor'],3,1,"May 21, 2020 - 17:00 PDT",North America,1,3,False,True,10.0
+Warriors International,Enormity eSports,0.0,2.0,False,0:00,"['Buddy', 'JWismont', 'Stokelyy']","['AdverseMeteor', 'Oath', 'Skyzz']",4,3,"May 21, 2020 - 17:00 PDT",North America,1,3,False,True,2.0
+Momentum,Ellevens Esports,2.0,6.0,False,0:00,"['Mijo', 'Pirates', 'PrimeThunder']","['CaioTG1', 'caard', 'tander']",1,3,"May 21, 2020 - 18:00 PDT",North America,1,3,False,True,8.0
+Momentum,Ellevens Esports,3.0,4.0,False,0:00,"['Mijo', 'Pirates']","['BRUNOVISQUII', 'CaioTG1']",2,2,"May 21, 2020 - 18:00 PDT",North America,1,3,False,True,7.0
+Momentum,Ellevens Esports,5.0,4.0,False,0:00,['Mijo'],['BRUNOVISQUII'],3,1,"May 21, 2020 - 18:00 PDT",North America,1,3,True,False,9.0
+Momentum,Ellevens Esports,2.0,3.0,False,0:00,"['Mijo', 'Pirates', 'PrimeThunder']","['CaioTG1', 'caard', 'tander']",4,3,"May 21, 2020 - 18:00 PDT",North America,1,3,False,True,5.0
+Avidity Esports,Sup,2.0,3.0,False,0:00,"['FirefoxD', 'Haberkamper', 'renaN']","['Daniel', 'Forky', 'money']",1,3,"May 21, 2020 - 18:00 PDT",North America,2,3,False,True,5.0
+Avidity Esports,Sup,2.0,1.0,False,0:00,"['FirefoxD', 'renaN']","['Daniel', 'Forky']",2,2,"May 21, 2020 - 18:00 PDT",North America,2,3,True,False,3.0
+Avidity Esports,Sup,6.0,7.0,False,0:00,['renaN'],['Daniel'],3,1,"May 21, 2020 - 18:00 PDT",North America,2,3,False,True,13.0
+Avidity Esports,Sup,1.0,0.0,False,0:00,"['FirefoxD', 'renaN']","['Daniel', 'Forky']",4,2,"May 21, 2020 - 18:00 PDT",North America,2,3,True,False,1.0
+Avidity Esports,Sup,2.0,3.0,False,0:00,"['FirefoxD', 'Haberkamper', 'renaN']","['Daniel', 'Forky', 'money']",5,3,"May 21, 2020 - 18:00 PDT",North America,2,3,False,True,5.0
+3 Star Armada,Vision,1.0,2.0,True,3:24,"['Astroh', 'Brendan', 'Skillz']","['BeastMode', 'Radoko', 'kinseh']",1,3,"May 21, 2020 - 19:00 PDT",North America,2,3,False,True,3.0
+3 Star Armada,Vision,6.0,3.0,False,0:00,"['Astroh', 'Skillz']","['BeastMode', 'Radoko']",2,2,"May 21, 2020 - 19:00 PDT",North America,2,3,True,False,9.0
+3 Star Armada,Vision,7.0,5.0,False,0:00,['Skillz'],['kinseh'],3,1,"May 21, 2020 - 19:00 PDT",North America,2,3,True,False,12.0
+3 Star Armada,Vision,1.0,2.0,True,2:13,"['Astroh', 'Brendan', 'Skillz']","['BeastMode', 'Radoko', 'kinseh']",4,3,"May 21, 2020 - 19:00 PDT",North America,2,3,False,True,3.0
+3 Star Armada,Vision,2.0,7.0,False,0:00,"['Astroh', 'Skillz']","['BeastMode', 'kinseh']",5,2,"May 21, 2020 - 19:00 PDT",North America,2,3,False,True,9.0
+Double Tap,Fall,1.0,4.0,False,0:00,"['Andy', 'Delta', 'Thundah']","['2Piece', 'Chronic', 'ZPS']",1,3,"May 21, 2020 - 19:00 PDT",North America,3,1,False,True,5.0
+Double Tap,Fall,4.0,1.0,False,0:00,"['Andy', 'JBot']","['2Piece', 'Chronic']",2,2,"May 21, 2020 - 19:00 PDT",North America,3,1,True,False,5.0
+Double Tap,Fall,9.0,2.0,False,0:00,['JBot'],['Chronic'],3,1,"May 21, 2020 - 19:00 PDT",North America,3,1,True,False,11.0
+Double Tap,Fall,1.0,0.0,False,0:00,"['Andy', 'Delta', 'Thundah']","['2Piece', 'Chronic', 'ZPS']",4,3,"May 21, 2020 - 19:00 PDT",North America,3,1,True,False,1.0
+Look at Curry,Legion,4.0,2.0,False,0:00,"['FTMHere', 'Wellace', 'qwop']","['Allushin', 'TyNotTyler', 'Wonder']",1,3,"May 21, 2020 - 20:00 PDT",North America,3,1,True,False,6.0
+Look at Curry,Legion,2.0,7.0,False,0:00,"['Wellace', 'qwop']","['Allushin', 'TyNotTyler']",2,2,"May 21, 2020 - 20:00 PDT",North America,3,1,False,True,9.0
+Look at Curry,Legion,12.0,2.0,False,0:00,['Gengar'],['TyNotTyler'],3,1,"May 21, 2020 - 20:00 PDT",North America,3,1,True,False,14.0
+Look at Curry,Legion,4.0,3.0,False,0:00,"['FTMHere', 'qwop']","['Allushin', 'Wonder']",4,2,"May 21, 2020 - 20:00 PDT",North America,3,1,True,False,7.0
+Charlotte Phoenix,Cloud9,1.0,7.0,False,0:00,"['Karma', 'Shadow', 'WondaMike']","['Gimmick', 'Squishy', 'Torment']",1,3,"May 21, 2020 - 20:00 PDT",North America,2,3,False,True,8.0
+Charlotte Phoenix,Cloud9,1.0,5.0,False,0:00,"['Karma', 'Shadow']","['Gimmick', 'Squishy']",2,2,"May 21, 2020 - 20:00 PDT",North America,2,3,False,True,6.0
+Charlotte Phoenix,Cloud9,9.0,5.0,False,0:00,['WondaMike'],['Squishy'],3,1,"May 21, 2020 - 20:00 PDT",North America,2,3,True,False,14.0
+Charlotte Phoenix,Cloud9,8.0,7.0,True,0:09,['WondaMike'],['Squishy'],4,1,"May 21, 2020 - 20:00 PDT",North America,2,3,True,False,15.0
+Charlotte Phoenix,Cloud9,1.0,3.0,False,0:00,"['Karma', 'Shadow', 'WondaMike']","['Gimmick', 'Squishy', 'Torment']",5,3,"May 21, 2020 - 20:00 PDT",North America,2,3,False,True,4.0
+Divine,Flight,1.0,0.0,False,0:00,"['Dino', 'JRuss', 'Porklet']","['Aeon', 'Sea-Bass', 'rapid']",1,3,"May 22, 2020 - 15:00 PDT",North America,3,0,True,False,1.0
+Divine,Flight,4.0,2.0,False,0:00,"['Dino', 'JRuss']","['Aeon', 'rapid']",2,2,"May 22, 2020 - 15:00 PDT",North America,3,0,True,False,6.0
+Divine,Flight,6.0,3.0,False,0:00,['JRuss'],['rapid'],3,1,"May 22, 2020 - 15:00 PDT",North America,3,0,True,False,9.0
+Mirage,Enormity eSports,1.0,2.0,True,0:28,"['Comm', 'Freshness', 'Luke']","['AdverseMeteor', 'Melody', 'Skyzz']",1,3,"May 22, 2020 - 15:00 PDT",North America,3,2,False,True,3.0
+Mirage,Enormity eSports,1.0,0.0,False,0:00,"['Comm', 'Freshness']","['AdverseMeteor', 'Skyzz']",2,2,"May 22, 2020 - 15:00 PDT",North America,3,2,True,False,1.0
+Mirage,Enormity eSports,3.0,9.0,False,0:00,['Comm'],['AdverseMeteor'],3,1,"May 22, 2020 - 15:00 PDT",North America,3,2,False,True,12.0
+Mirage,Enormity eSports,4.0,1.0,False,0:00,"['Comm', 'Freshness']","['AdverseMeteor', 'Skyzz']",4,2,"May 22, 2020 - 15:00 PDT",North America,3,2,True,False,5.0
+Mirage,Enormity eSports,9.0,4.0,False,0:00,['Comm'],['AdverseMeteor'],5,1,"May 22, 2020 - 15:00 PDT",North America,3,2,True,False,13.0
+Affinity,Ellevens Esports,2.0,0.0,False,0:00,"['Jordan', 'MajicBear', 'Percy']","['CaioTG1', 'caard', 'tander']",1,3,"May 22, 2020 - 16:00 PDT",North America,3,0,True,False,2.0
+Affinity,Ellevens Esports,3.0,2.0,True,0:51,"['MajicBear', 'Percy']","['BRUNOVISQUII', 'CaioTG1']",2,2,"May 22, 2020 - 16:00 PDT",North America,3,0,True,False,5.0
+Affinity,Ellevens Esports,8.0,3.0,False,0:00,['MajicBear'],['BRUNOVISQUII'],3,1,"May 22, 2020 - 16:00 PDT",North America,3,0,True,False,11.0
+Plot Twist,Sup,0.0,3.0,False,0:00,"['Taroco', 'mectos', 'sosa']","['Daniel', 'Forky', 'money']",1,3,"May 22, 2020 - 16:00 PDT",North America,3,2,False,True,3.0
+Plot Twist,Sup,2.0,1.0,False,0:00,"['Taroco', 'mectos']","['Daniel', 'Forky']",2,2,"May 22, 2020 - 16:00 PDT",North America,3,2,True,False,3.0
+Plot Twist,Sup,4.0,7.0,False,0:00,['Taroco'],['Daniel'],3,1,"May 22, 2020 - 16:00 PDT",North America,3,2,False,True,11.0
+Plot Twist,Sup,4.0,1.0,False,0:00,"['Taroco', 'mectos']","['Daniel', 'Forky']",4,2,"May 22, 2020 - 16:00 PDT",North America,3,2,True,False,5.0
+Plot Twist,Sup,5.0,2.0,False,0:00,['Taroco'],['Daniel'],5,1,"May 22, 2020 - 16:00 PDT",North America,3,2,True,False,7.0
+Pittsburgh Knights,Vision,2.0,1.0,True,0:55,"['AlRaz', 'AyyJayy', 'Gyro.']","['BeastMode', 'Radoko', 'kinseh']",1,3,"May 22, 2020 - 17:00 PDT",North America,2,3,True,False,3.0
+Pittsburgh Knights,Vision,0.0,1.0,False,0:00,"['AlRaz', 'Gyro.']","['BeastMode', 'kinseh']",2,2,"May 22, 2020 - 17:00 PDT",North America,2,3,False,True,1.0
+Pittsburgh Knights,Vision,4.0,5.0,True,0:08,['AyyJayy'],['kinseh'],3,1,"May 22, 2020 - 17:00 PDT",North America,2,3,False,True,9.0
+Pittsburgh Knights,Vision,3.0,0.0,False,0:00,"['AlRaz', 'AyyJayy', 'Gyro.']","['BeastMode', 'Radoko', 'kinseh']",4,3,"May 22, 2020 - 17:00 PDT",North America,2,3,True,False,3.0
+Pittsburgh Knights,Vision,2.0,6.0,False,0:00,"['AyyJayy', 'Gyro.']","['BeastMode', 'kinseh']",5,2,"May 22, 2020 - 17:00 PDT",North America,2,3,False,True,8.0
+NRG Esports,Double Tap,1.0,0.0,False,0:00,"['GarrettG', 'Turbopolsa', 'jstn.']","['Andy', 'Delta', 'Thundah']",1,3,"May 22, 2020 - 17:00 PDT",North America,3,0,True,False,1.0
+NRG Esports,Double Tap,8.0,2.0,False,0:00,"['GarrettG', 'jstn.']","['Andy', 'Jbot']",2,2,"May 22, 2020 - 17:00 PDT",North America,3,0,True,False,10.0
+NRG Esports,Double Tap,8.0,7.0,False,0:00,['jstn.'],['Jbot'],3,1,"May 22, 2020 - 17:00 PDT",North America,3,0,True,False,15.0
+Susquehanna Soniqs,Look at Curry,2.0,0.0,False,0:00,"['Dappur', 'Satthew', 'Shock']","['FTMHere', 'Wellace', 'qwop']",1,3,"May 22, 2020 - 18:00 PDT",North America,3,2,True,False,2.0
+Susquehanna Soniqs,Look at Curry,4.0,1.0,False,0:00,"['Satthew', 'Shock']","['FTMHere', 'Wellace']",2,2,"May 22, 2020 - 18:00 PDT",North America,3,2,True,False,5.0
+Susquehanna Soniqs,Look at Curry,6.0,10.0,False,0:00,['Satthew'],['Gengar'],3,1,"May 22, 2020 - 18:00 PDT",North America,3,2,False,True,16.0
+Susquehanna Soniqs,Look at Curry,3.0,7.0,False,0:00,['Dappur'],['Gengar'],4,1,"May 22, 2020 - 18:00 PDT",North America,3,2,False,True,10.0
+Susquehanna Soniqs,Look at Curry,2.0,1.0,True,0:16,"['Dappur', 'Satthew', 'Shock']","['FTMHere', 'Wellace', 'qwop']",5,3,"May 22, 2020 - 18:00 PDT",North America,3,2,True,False,3.0
+Jamal Jabary,Cloud9,5.0,6.0,True,0:24,"['Lj', 'Spyder', 'Toastie']","['Gimmick', 'Squishy', 'Torment']",1,3,"May 22, 2020 - 18:00 PDT",North America,1,3,False,True,11.0
+Jamal Jabary,Cloud9,4.0,3.0,False,0:00,"['Lj', 'dreaz']","['Gimmick', 'Torment']",2,2,"May 22, 2020 - 18:00 PDT",North America,1,3,True,False,7.0
+Jamal Jabary,Cloud9,6.0,7.0,False,0:00,['dreaz'],['Squishy'],3,1,"May 22, 2020 - 18:00 PDT",North America,1,3,False,True,13.0
+Jamal Jabary,Cloud9,0.0,2.0,False,0:00,"['Lj', 'Spyder', 'Toastie']","['Gimmick', 'Squishy', 'Torment']",4,3,"May 22, 2020 - 18:00 PDT",North America,1,3,False,True,2.0
+Divine,Mirage,0.0,1.0,False,0:00,"['Dino', 'JRuss', 'Porklet']","['Comm', 'Freshness', 'Luke']",1,3,"May 22, 2020 - 16:00 PDT",North America,3,2,False,True,1.0
+Divine,Mirage,4.0,2.0,False,0:00,"['Dino', 'JRuss']","['Comm', 'Freshness']",2,2,"May 22, 2020 - 16:00 PDT",North America,3,2,True,False,6.0
+Divine,Mirage,6.0,5.0,True,0:33,['JRuss'],['Comm'],3,1,"May 22, 2020 - 16:00 PDT",North America,3,2,True,False,11.0
+Divine,Mirage,1.0,3.0,False,0:00,"['Dino', 'JRuss', 'Porklet']","['Comm', 'Freshness', 'Luke']",4,3,"May 22, 2020 - 16:00 PDT",North America,3,2,False,True,4.0
+Divine,Mirage,4.0,3.0,False,0:00,['JRuss'],['Comm'],5,1,"May 22, 2020 - 16:00 PDT",North America,3,2,True,False,7.0
+Affinity,Plot Twist,1.0,4.0,False,0:00,"['Jordan', 'MajicBear', 'Percy']","['Taroco', 'mectos', 'sosa']",1,3,"May 22, 2020 - 17:00 PDT",North America,3,2,False,True,5.0
+Affinity,Plot Twist,2.0,5.0,False,0:00,"['MajicBear', 'Percy']","['Taroco', 'mectos']",2,2,"May 22, 2020 - 17:00 PDT",North America,3,2,False,True,7.0
+Affinity,Plot Twist,14.0,3.0,False,0:00,['MajicBear'],['Taroco'],3,1,"May 22, 2020 - 17:00 PDT",North America,3,2,True,False,17.0
+Affinity,Plot Twist,15.0,5.0,False,0:00,['MajicBear'],['mectos'],4,1,"May 22, 2020 - 17:00 PDT",North America,3,2,True,False,20.0
+Affinity,Plot Twist,6.0,3.0,False,0:00,"['MajicBear', 'Percy']","['Taroco', 'mectos']",5,2,"May 22, 2020 - 17:00 PDT",North America,3,2,True,False,9.0
+Vision,NRG Esports,3.0,0.0,False,0:00,"['BeastMode', 'Radoko', 'kinseh']","['GarrettG', 'Turbopolsa', 'jstn.']",1,3,"May 22, 2020 - 18:00 PDT",North America,3,0,True,False,3.0
+Vision,NRG Esports,3.0,0.0,False,0:00,"['BeastMode', 'kinseh']","['GarrettG', 'jstn.']",2,2,"May 22, 2020 - 18:00 PDT",North America,3,0,True,False,3.0
+Vision,NRG Esports,9.0,4.0,False,0:00,['kinseh'],['jstn.'],3,1,"May 22, 2020 - 18:00 PDT",North America,3,0,True,False,13.0
+Susquehanna Soniqs,Cloud9,0.0,2.0,False,0:00,"['Dappur', 'Satthew', 'Shock']","['Gimmick', 'Squishy', 'Torment']",1,3,"May 22, 2020 - 19:00 PDT",North America,1,3,False,True,2.0
+Susquehanna Soniqs,Cloud9,5.0,2.0,False,0:00,"['Satthew', 'Shock']","['Gimmick', 'Squishy']",2,2,"May 22, 2020 - 19:00 PDT",North America,1,3,True,False,7.0
+Susquehanna Soniqs,Cloud9,4.0,7.0,False,0:00,['Satthew'],['Squishy'],3,1,"May 22, 2020 - 19:00 PDT",North America,1,3,False,True,11.0
+Susquehanna Soniqs,Cloud9,1.0,2.0,True,1:59,"['Satthew', 'Shock']","['Gimmick', 'Squishy']",4,2,"May 22, 2020 - 19:00 PDT",North America,1,3,False,True,3.0
+EUnited,Divine,3.0,1.0,False,0:00,"['Memory', 'ayjacks', 'hockser']","['Dino', 'JRuss', 'Porklet']",1,3,"May 22, 2020 - 17:00 PDT",North America,2,3,True,False,4.0
+EUnited,Divine,2.0,4.0,False,0:00,"['ayjacks', 'hockser']","['Dino', 'JRuss']",2,2,"May 22, 2020 - 17:00 PDT",North America,2,3,False,True,6.0
+EUnited,Divine,1.0,10.0,False,0:00,['Memory'],['JRuss'],3,1,"May 22, 2020 - 17:00 PDT",North America,2,3,False,True,11.0
+EUnited,Divine,2.0,0.0,False,0:00,"['Memory', 'ayjacks', 'hockser']","['Dino', 'JRuss', 'Porklet']",4,3,"May 22, 2020 - 17:00 PDT",North America,2,3,True,False,2.0
+EUnited,Divine,6.0,8.0,False,0:00,['ayjacks'],['JRuss'],5,1,"May 22, 2020 - 17:00 PDT",North America,2,3,False,True,14.0
+G2 Esports,Affinity,6.0,4.0,False,0:00,"['Chicago', 'JKnaps', 'Rizzo']","['Jordan', 'MajicBear', 'Percy']",1,3,"May 22, 2020 - 18:00 PDT",North America,2,3,True,False,10.0
+G2 Esports,Affinity,2.0,5.0,False,0:00,"['Chicago', 'Mile']","['MajicBear', 'Percy']",2,2,"May 22, 2020 - 18:00 PDT",North America,2,3,False,True,7.0
+G2 Esports,Affinity,5.0,7.0,False,0:00,['Mile'],['MajicBear'],3,1,"May 22, 2020 - 18:00 PDT",North America,2,3,False,True,12.0
+G2 Esports,Affinity,3.0,0.0,False,0:00,"['Chicago', 'JKnaps', 'Rizzo']","['Jordan', 'MajicBear', 'Percy']",4,3,"May 22, 2020 - 18:00 PDT",North America,2,3,True,False,3.0
+G2 Esports,Affinity,3.0,5.0,False,0:00,['Mile'],['MajicBear'],5,1,"May 22, 2020 - 18:00 PDT",North America,2,3,False,True,8.0
+Team Meteor,Vision,2.0,4.0,False,0:00,"['Ahduhm', 'kirii', 'ostyn']","['BeastMode', 'kinseh', 'radoko']",1,3,"May 22, 2020 - 19:00 PDT",North America,2,3,False,True,6.0
+Team Meteor,Vision,4.0,3.0,False,0:00,"['Ahduhm', 'Sharp']","['BeastMode', 'kinseh']",2,2,"May 22, 2020 - 19:00 PDT",North America,2,3,True,False,7.0
+Team Meteor,Vision,7.0,4.0,False,0:00,['Sharp'],['kinseh'],3,1,"May 22, 2020 - 19:00 PDT",North America,2,3,True,False,11.0
+Team Meteor,Vision,0.0,4.0,False,0:00,"['Ahduhm', 'kirii', 'ostyn']","['BeastMode', 'kinseh', 'radoko']",4,3,"May 22, 2020 - 19:00 PDT",North America,2,3,False,True,4.0
+Team Meteor,Vision,5.0,6.0,True,5:31,"['Ahduhm', 'Sharp']","['kinseh', 'radoko']",5,2,"May 22, 2020 - 19:00 PDT",North America,2,3,False,True,11.0
+Team Envy,Cloud9,2.0,1.0,False,0:00,"['Atomic', 'Mist', 'retals']","['Gimmick', 'Squishy', 'Torment']",1,3,"May 22, 2020 - 20:00 PDT",North America,3,0,True,False,3.0
+Team Envy,Cloud9,1.0,0.0,True,0:06,"['Atomic', 'retals']","['Gimmick', 'Squishy']",2,2,"May 22, 2020 - 20:00 PDT",North America,3,0,True,False,1.0
+Team Envy,Cloud9,10.0,2.0,False,0:00,['retals'],['Squishy'],3,1,"May 22, 2020 - 20:00 PDT",North America,3,0,True,False,12.0
+Renault Vitality,5Head,3.0,0.0,False,0:00,"['Alpha54', 'Fairy Peak', 'Kaydop']","['M7sN!', 'ams', 'bo0odi44_']",1,3,"May 21, 2020 - 18:00 CEST",Europe,3,1,True,False,3.0
+Renault Vitality,5Head,2.0,3.0,False,0:00,"['Alpha54', 'Kaydop']","['M7sN!', 'ams']",2,2,"May 21, 2020 - 18:00 CEST",Europe,3,1,False,True,5.0
+Renault Vitality,5Head,7.0,6.0,False,0:00,['Fairy Peak'],['ams'],3,1,"May 21, 2020 - 18:00 CEST",Europe,3,1,True,False,13.0
+Renault Vitality,5Head,4.0,1.0,False,0:00,"['Alpha54', 'Kaydop']","['M7sN!', 'ams']",4,2,"May 21, 2020 - 18:00 CEST",Europe,3,1,True,False,5.0
+Almans,Magnifico,0.0,1.0,False,0:00,"['FreaKii', 'Godsmilla', 'Striker']","['AtomiK', 'Emre', 'Yukiss']",1,3,"May 21, 2020 - 18:00 CEST",Europe,1,3,False,True,1.0
+Almans,Magnifico,3.0,2.0,False,0:00,"['FreaKii', 'Striker']","['AtomiK', 'Emre']",2,2,"May 21, 2020 - 18:00 CEST",Europe,1,3,True,False,5.0
+Almans,Magnifico,4.0,6.0,False,0:00,['Striker'],['AtomiK'],3,1,"May 21, 2020 - 18:00 CEST",Europe,1,3,False,True,10.0
+Almans,Magnifico,2.0,3.0,True,1:14,"['FreaKii', 'Godsmilla', 'Striker']","['AtomiK', 'Emre', 'Yukiss']",4,3,"May 21, 2020 - 18:00 CEST",Europe,1,3,False,True,5.0
+Solary,Servette Geneva Esports,5.0,2.0,False,0:00,"['ExoTiiK', 'Kérian', 'Meloshisu']","['Justuszzz', 'Mirror.', 'Zaphare']",1,3,"May 21, 2020 - 18:00 CEST",Europe,3,0,True,False,7.0
+Solary,Servette Geneva Esports,5.0,2.0,False,0:00,"['ExoTiiK', 'Meloshisu']","['Mirror.', 'Zaphare']",2,2,"May 21, 2020 - 18:00 CEST",Europe,3,0,True,False,7.0
+Solary,Servette Geneva Esports,5.0,4.0,False,0:00,['ExoTiiK'],['Justuszzz'],3,1,"May 21, 2020 - 18:00 CEST",Europe,3,0,True,False,9.0
+Team BDS,Womped,2.0,1.0,False,0:00,"['Marc_by_8', 'Monkey Moon', 'Nachitow']","['Barist', 'Rise', 'cal']",1,3,"May 21, 2020 - 18:00 CEST",Europe,3,0,True,False,3.0
+Team BDS,Womped,5.0,3.0,False,0:00,"['Marc_by_8', 'Monkey Moon']","['Barist', 'cal']",2,2,"May 21, 2020 - 18:00 CEST",Europe,3,0,True,False,8.0
+Team BDS,Womped,6.0,5.0,True,0:06,['Monkey Moon'],['Rise'],3,1,"May 21, 2020 - 18:00 CEST",Europe,3,0,True,False,11.0
+Mousesports,Yer Maw,1.0,3.0,False,0:00,"['Arju', 'Speed', 'kuxir97']","['Calzafy', 'LuiisP', 'saizen']",1,3,"May 21, 2020 - 19:00 CEST",Europe,1,3,False,True,4.0
+Mousesports,Yer Maw,1.0,3.0,False,0:00,"['Lethamyr', 'Speed']","['LuiisP', 'saizen']",2,2,"May 21, 2020 - 19:00 CEST",Europe,1,3,False,True,4.0
+Mousesports,Yer Maw,6.0,5.0,False,0:00,['Speed'],['LuiisP'],3,1,"May 21, 2020 - 19:00 CEST",Europe,1,3,True,False,11.0
+Mousesports,Yer Maw,0.0,1.0,False,0:00,"['Kuxir97', 'Speed']","['LuiisP', 'saizen']",4,2,"May 21, 2020 - 19:00 CEST",Europe,1,3,False,True,1.0
+Veloce Esports,Triple Trouble,1.0,2.0,True,0:23,"['FlamE', 'Kassio', 'archie']","['Bluey', 'Kash', 'Tadpole']",1,3,"May 21, 2020 - 19:00 CEST",Europe,3,1,False,True,3.0
+Veloce Esports,Triple Trouble,8.0,2.0,False,0:00,"['FlamE', 'archie']","['Bluey', 'Tadpole']",2,2,"May 21, 2020 - 19:00 CEST",Europe,3,1,True,False,10.0
+Veloce Esports,Triple Trouble,6.0,5.0,False,0:00,['archie'],['Bluey'],3,1,"May 21, 2020 - 19:00 CEST",Europe,3,1,True,False,11.0
+Veloce Esports,Triple Trouble,5.0,1.0,False,0:00,"['FlamE', 'Kassio', 'archie']","['Bluey', 'Kash', 'Tadpole']",4,3,"May 21, 2020 - 19:00 CEST",Europe,3,1,True,False,6.0
+Tree of a Kind,Totalschaden,0.0,1.0,False,0:00,"['Mittaen', 'Tahz', 'eekso']","['Alex161', 'Gnagflow06', 'doomayn']",1,3,"May 21, 2020 - 19:00 CEST",Europe,3,2,False,True,1.0
+Tree of a Kind,Totalschaden,5.0,1.0,False,0:00,"['Mittaen', 'eekso']","['Alex161', 'Gnagflow06']",2,2,"May 21, 2020 - 19:00 CEST",Europe,3,2,True,False,6.0
+Tree of a Kind,Totalschaden,4.0,6.0,False,0:00,['eekso'],['Revezy'],3,1,"May 21, 2020 - 19:00 CEST",Europe,3,2,False,True,10.0
+Tree of a Kind,Totalschaden,4.0,0.0,False,0:00,"['Mittaen', 'eekso']","['Alex161', 'Gnagflow06']",4,2,"May 21, 2020 - 19:00 CEST",Europe,3,2,True,False,4.0
+Tree of a Kind,Totalschaden,6.0,3.0,False,0:00,['eekso'],['Revezy'],5,1,"May 21, 2020 - 19:00 CEST",Europe,3,2,True,False,9.0
+Oxygen Esports,Flying Nunchucks,4.0,3.0,False,0:00,"['AztraL', 'Chausette45', 'Ferra']","['Al Dente', 'Maadzz', 'Reganam']",1,3,"May 21, 2020 - 19:00 CEST",Europe,3,0,True,False,7.0
+Oxygen Esports,Flying Nunchucks,3.0,2.0,True,0:51,"['AztraL', 'Chausette45']","['Al Dente', 'Reganam']",2,2,"May 21, 2020 - 19:00 CEST",Europe,3,0,True,False,5.0
+Oxygen Esports,Flying Nunchucks,8.0,4.0,False,0:00,['AztraL'],['Al Dente'],3,1,"May 21, 2020 - 19:00 CEST",Europe,3,0,True,False,12.0
+Dignitas,Momentum Shifters,2.0,1.0,False,0:00,"['Joreuz', 'ViolentPanda', 'Yukeo']","['Ali', 'Brownie', 'Impressive']",1,3,"May 21, 2020 - 20:00 CEST",Europe,3,1,True,False,3.0
+Dignitas,Momentum Shifters,1.0,5.0,False,0:00,"['Joreuz', 'ViolentPanda']","['Ali', 'Yahya']",2,2,"May 21, 2020 - 20:00 CEST",Europe,3,1,False,True,6.0
+Dignitas,Momentum Shifters,7.0,6.0,False,0:00,['Joreuz'],['Ali'],3,1,"May 21, 2020 - 20:00 CEST",Europe,3,1,True,False,13.0
+Dignitas,Momentum Shifters,2.0,1.0,False,0:00,"['Joreuz', 'ViolentPanda']","['Ali', 'Yahya']",4,2,"May 21, 2020 - 20:00 CEST",Europe,3,1,True,False,3.0
+Randoms,Stormtroopers,3.0,4.0,False,0:00,"['AcroniK', 'Flakes', 'Lauty']","['ApparentlyJack', 'Dead-Monster', 'Polar']",1,3,"May 21, 2020 - 20:00 CEST",Europe,0,3,False,True,7.0
+Randoms,Stormtroopers,4.0,6.0,False,0:00,"['AcroniK', 'Flakes']","['ApparentlyJack', 'Dead-Monster']",2,2,"May 21, 2020 - 20:00 CEST",Europe,0,3,False,True,10.0
+Randoms,Stormtroopers,5.0,7.0,False,0:00,['Flakes'],['ApparentlyJack'],3,1,"May 21, 2020 - 20:00 CEST",Europe,0,3,False,True,12.0
+Canyons,Celestial,3.0,0.0,False,0:00,"['Stake', 'Tox', 'Zamué']","['Mikeboy', 'Rizex45', 'RizuaL']",1,3,"May 21, 2020 - 20:00 CEST",Europe,3,1,True,False,3.0
+Canyons,Celestial,0.0,1.0,False,0:00,"['Stake', 'Zamué']","['Mikeboy', 'Rizex45']",2,2,"May 21, 2020 - 20:00 CEST",Europe,3,1,False,True,1.0
+Canyons,Celestial,9.0,4.0,False,0:00,['Zamué'],['Rizex45'],3,1,"May 21, 2020 - 20:00 CEST",Europe,3,1,True,False,13.0
+Canyons,Celestial,8.0,2.0,False,0:00,"['Stake', 'Zamué']","['Mikeboy', 'Rizex45']",4,2,"May 21, 2020 - 20:00 CEST",Europe,3,1,True,False,10.0
+Endpoint,Team Shaky,3.0,0.0,False,0:00,"['Metsanauris', 'RelatingWave', 'virtuoso']","['Cynical', 'Hakeem', 'Oaly']",1,3,"May 21, 2020 - 20:00 CEST",Europe,3,0,True,False,3.0
+Endpoint,Team Shaky,5.0,2.0,False,0:00,"['Metsanauris', 'RelatingWave']","['Hakeem', 'Oaly']",2,2,"May 21, 2020 - 20:00 CEST",Europe,3,0,True,False,7.0
+Endpoint,Team Shaky,9.0,3.0,False,0:00,['RelatingWave'],['Joyo'],3,1,"May 21, 2020 - 20:00 CEST",Europe,3,0,True,False,12.0
+Sandrock Gaming,Aeriality,0.0,2.0,False,0:00,"['Ahmad', 'Senzo', 'oKhaliD']","['BoySchoolQ', 'Sebadam', 'Tylacto']",1,3,"May 21, 2020 - 21:00 CEST",Europe,3,2,False,True,2.0
+Sandrock Gaming,Aeriality,8.0,2.0,False,0:00,"['Ahmad', 'oKhaliD']","['BoySchoolQ', 'Tylacto']",2,2,"May 21, 2020 - 21:00 CEST",Europe,3,2,True,False,10.0
+Sandrock Gaming,Aeriality,10.0,6.0,False,0:00,['oKhaliD'],['Tylacto'],3,1,"May 21, 2020 - 21:00 CEST",Europe,3,2,True,False,16.0
+Sandrock Gaming,Aeriality,0.0,2.0,False,0:00,"['Ahmad', 'Senzo', 'oKhaliD']","['BoySchoolQ', 'Sebadam', 'Tylacto']",4,3,"May 21, 2020 - 21:00 CEST",Europe,3,2,False,True,2.0
+Sandrock Gaming,Aeriality,9.0,1.0,False,0:00,['oKhaliD'],['Tylacto'],5,1,"May 21, 2020 - 21:00 CEST",Europe,3,2,True,False,10.0
+FC Barcelona,John MacDonald's Happy Meal,1.0,0.0,False,0:00,"['Deevo', 'Ronaky', 'Seeb']","['Breezi', 'hibbs', 'rehzzy']",1,3,"May 21, 2020 - 21:00 CEST",Europe,3,1,True,False,1.0
+FC Barcelona,John MacDonald's Happy Meal,4.0,3.0,False,0:00,"['Deevo', 'Ronaky']","['Breezi', 'rehzzy']",2,2,"May 21, 2020 - 21:00 CEST",Europe,3,1,True,False,7.0
+FC Barcelona,John MacDonald's Happy Meal,1.0,4.0,False,0:00,['Deevo'],['Breezi'],3,1,"May 21, 2020 - 21:00 CEST",Europe,3,1,False,True,5.0
+FC Barcelona,John MacDonald's Happy Meal,8.0,6.0,False,0:00,['Ronaky'],['Breezi'],4,1,"May 21, 2020 - 21:00 CEST",Europe,3,1,True,False,14.0
+Sauce,Nameless,2.0,4.0,False,0:00,"['Mognus', 'Tigreee', 'al0t']","['DmentZa', 'Oscillon', 'Rix_Ronday']",1,3,"May 21, 2020 - 21:00 CEST",Europe,1,3,False,True,6.0
+Sauce,Nameless,2.0,0.0,False,0:00,"['Mognus', 'Tigreee']","['DmentZa', 'Rix_Ronday']",2,2,"May 21, 2020 - 21:00 CEST",Europe,1,3,True,False,2.0
+Sauce,Nameless,5.0,12.0,False,0:00,['OSM'],['DmentZa'],3,1,"May 21, 2020 - 21:00 CEST",Europe,1,3,False,True,17.0
+Sauce,Nameless,1.0,2.0,True,0:40,"['Mognus', 'Tigreee', 'al0t']","['DmentZa', 'Oscillon', 'Rix_Ronday']",4,3,"May 21, 2020 - 21:00 CEST",Europe,1,3,False,True,3.0
+Team Singularity,Story bud,0.0,1.0,False,0:00,"['Scrub Killa', 'ThO', 'noly']","['Gr0wlii', 'jxmes', 'robkiernxn']",1,3,"May 21, 2020 - 21:00 CEST",Europe,3,1,False,True,1.0
+Team Singularity,Story bud,3.0,1.0,False,0:00,"['ThO', 'noly']","['Mugg', 'jxmes']",2,2,"May 21, 2020 - 21:00 CEST",Europe,3,1,True,False,4.0
+Team Singularity,Story bud,5.0,2.0,False,0:00,['Scrub Killa'],['robkiernxn'],3,1,"May 21, 2020 - 21:00 CEST",Europe,3,1,True,False,7.0
+Team Singularity,Story bud,4.0,1.0,False,0:00,"['Scrub Killa', 'ThO', 'noly']","['Gr0wlii', 'jxmes', 'robkiernxn']",4,3,"May 21, 2020 - 21:00 CEST",Europe,3,1,True,False,5.0
+Renault Vitality,Magnifico,4.0,2.0,False,0:00,"['Alpha54', 'Fairy Peak', 'Kaydop']","['AtomiK', 'Emre', 'Yukiss']",1,3,"May 21, 2020 - 19:00 CEST",Europe,3,0,True,False,6.0
+Renault Vitality,Magnifico,1.0,0.0,False,0:00,"['Alpha54', 'Kaydop']","['AtomiK', 'Emre']",2,2,"May 21, 2020 - 19:00 CEST",Europe,3,0,True,False,1.0
+Renault Vitality,Magnifico,4.0,3.0,True,0:24,['Fairy Peak'],['AtomiK'],3,1,"May 21, 2020 - 19:00 CEST",Europe,3,0,True,False,7.0
+Solary,Team BDS,2.0,3.0,True,0:54,"['ExoTiiK', 'Kérian', 'Meloshisu']","['M0nkey M00n', 'MaRc_By_8', 'Nachitow']",1,3,"May 21, 2020 - 19:00 CEST",Europe,1,3,False,True,5.0
+Solary,Team BDS,3.0,4.0,True,0:12,"['ExoTiiK', 'Meloshisu']","['M0nkey M00n', 'MaRc_By_8']",2,2,"May 21, 2020 - 19:00 CEST",Europe,1,3,False,True,7.0
+Solary,Team BDS,7.0,6.0,False,0:00,['ExoTiiK'],['M0nkey M00n'],3,1,"May 21, 2020 - 19:00 CEST",Europe,1,3,True,False,13.0
+Solary,Team BDS,2.0,5.0,False,0:00,"['ExoTiiK', 'Meloshisu']","['M0nkey M00n', 'MaRc_By_8']",4,2,"May 21, 2020 - 19:00 CEST",Europe,1,3,False,True,7.0
+Yer Maw,Veloce Esports,1.0,4.0,False,0:00,"['Calzafy', 'LuiisP', 'saizen']","['FlamE', 'Kassio', 'archie']",1,3,"May 21, 2020 - 20:00 CEST",Europe,2,3,False,True,5.0
+Yer Maw,Veloce Esports,1.0,7.0,False,0:00,"['LuiisP', 'saizen']","['FlamE', 'archie']",2,2,"May 21, 2020 - 20:00 CEST",Europe,2,3,False,True,8.0
+Yer Maw,Veloce Esports,5.0,4.0,False,0:00,['LuiisP'],['archie'],3,1,"May 21, 2020 - 20:00 CEST",Europe,2,3,True,False,9.0
+Yer Maw,Veloce Esports,9.0,3.0,False,0:00,['LuiisP'],['archie'],4,1,"May 21, 2020 - 20:00 CEST",Europe,2,3,True,False,12.0
+Yer Maw,Veloce Esports,2.0,3.0,True,0:28,"['Calzafy', 'LuiisP', 'saizen']","['FlamE', 'Kassio', 'archie']",5,3,"May 21, 2020 - 20:00 CEST",Europe,2,3,False,True,5.0
+Tree of a Kind,Oxygen Esports,1.0,3.0,False,0:00,"['Mittaen', 'Tahz', 'eekso']","['AztraL', 'Chausette45', 'Ferra']",1,3,"May 21, 2020 - 20:00 CEST",Europe,1,3,False,True,4.0
+Tree of a Kind,Oxygen Esports,2.0,1.0,True,2:52,"['Mittaen', 'eekso']","['AztraL', 'Chausette45']",2,2,"May 21, 2020 - 20:00 CEST",Europe,1,3,True,False,3.0
+Tree of a Kind,Oxygen Esports,7.0,8.0,False,0:00,['eekso'],['AztraL'],3,1,"May 21, 2020 - 20:00 CEST",Europe,1,3,False,True,15.0
+Tree of a Kind,Oxygen Esports,1.0,3.0,False,0:00,"['Mittaen', 'Tahz', 'eekso']","['AztraL', 'Chausette45', 'Ferra']",4,3,"May 21, 2020 - 20:00 CEST",Europe,1,3,False,True,4.0
+Dignitas,Stormtroopers,3.0,1.0,False,0:00,"['Joreuz', 'ViolentPanda', 'Yukeo']","['Apparently_Jack', 'Dead-Monster', 'Polar']",1,3,"May 21, 2020 - 21:00 CEST",Europe,1,3,True,False,4.0
+Dignitas,Stormtroopers,1.0,4.0,False,0:00,"['ViolentPanda', 'Yukeo']","['Apparently_Jack', 'Dead-Monster']",2,2,"May 21, 2020 - 21:00 CEST",Europe,1,3,False,True,5.0
+Dignitas,Stormtroopers,8.0,9.0,False,0:00,['Joreuz'],['Apparently_Jack'],3,1,"May 21, 2020 - 21:00 CEST",Europe,1,3,False,True,17.0
+Dignitas,Stormtroopers,0.0,4.0,False,0:00,"['Joreuz', 'ViolentPanda', 'Yukeo']","['Apparently_Jack', 'Dead-Monster', 'Polar']",4,3,"May 21, 2020 - 21:00 CEST",Europe,1,3,False,True,4.0
+Canyons,Endpoint,1.0,3.0,False,0:00,"['Stake', 'Tox', 'Zamué']","['Metsanauris', 'RelatingWave', 'virtuoso']",1,3,"May 21, 2020 - 21:00 CEST",Europe,1,3,False,True,4.0
+Canyons,Endpoint,2.0,3.0,False,0:00,"['Stake', 'Zamué']","['Metsanauris', 'RelatingWave']",2,2,"May 21, 2020 - 21:00 CEST",Europe,1,3,False,True,5.0
+Canyons,Endpoint,5.0,2.0,False,0:00,['Zamué'],['RelatingWave'],3,1,"May 21, 2020 - 21:00 CEST",Europe,1,3,True,False,7.0
+Canyons,Endpoint,7.0,8.0,False,0:00,['Zamué'],['RelatingWave'],4,1,"May 21, 2020 - 21:00 CEST",Europe,1,3,False,True,15.0
+Sandrock Gaming,FC Barcelona,4.0,3.0,True,2:18,"['Ahmad', 'SENZO', 'oKhaliD']","['Deevo', 'Ronaky', 'Seeb']",1,3,"May 21, 2020 - 22:00 CEST",Europe,3,0,True,False,7.0
+Sandrock Gaming,FC Barcelona,7.0,1.0,False,0:00,"['Ahmad', 'oKhaliD']","['Deevo', 'Ronaky']",2,2,"May 21, 2020 - 22:00 CEST",Europe,3,0,True,False,8.0
+Sandrock Gaming,FC Barcelona,9.0,4.0,False,0:00,['oKhaliD'],['Ronaky'],3,1,"May 21, 2020 - 22:00 CEST",Europe,3,0,True,False,13.0
+Nameless,Team Singularity,2.0,1.0,True,0:04,"['DmentZa', 'Oscillon', 'Rix_Ronday']","['Scrub Killa', 'ThO', 'noly']",1,3,"May 21, 2020 - 22:00 CEST",Europe,3,2,True,False,3.0
+Nameless,Team Singularity,1.0,7.0,False,0:00,"['DmentZa', 'Rix_Ronday']","['ThO', 'noly']",2,2,"May 21, 2020 - 22:00 CEST",Europe,3,2,False,True,8.0
+Nameless,Team Singularity,6.0,4.0,False,0:00,['DmentZa'],['Scrub Killa'],3,1,"May 21, 2020 - 22:00 CEST",Europe,3,2,True,False,10.0
+Nameless,Team Singularity,2.0,4.0,False,0:00,"['DmentZa', 'Rix_Ronday']","['ThO', 'noly']",4,2,"May 21, 2020 - 22:00 CEST",Europe,3,2,False,True,6.0
+Nameless,Team Singularity,2.0,1.0,False,0:00,"['DmentZa', 'Oscillon', 'Rix_Ronday']","['Scrub Killa', 'ThO', 'noly']",5,3,"May 21, 2020 - 22:00 CEST",Europe,3,2,True,False,3.0
+Renault Vitality,Team BDS,2.0,1.0,False,0:00,"['Alpha54', 'Fairy Peak', 'Kaydop']","['Marc_by_8', 'Monkey Moon', 'Nachitow']",1,3,"May 21, 2020 - 20:00 CEST",Europe,3,0,True,False,3.0
+Renault Vitality,Team BDS,2.0,1.0,False,0:00,"['Alpha54', 'Kaydop']","['Marc_by_8', 'Monkey Moon']",2,2,"May 21, 2020 - 20:00 CEST",Europe,3,0,True,False,3.0
+Renault Vitality,Team BDS,8.0,5.0,False,0:00,['Fairy Peak'],['Monkey Moon'],3,1,"May 21, 2020 - 20:00 CEST",Europe,3,0,True,False,13.0
+Veloce Esports,Oxygen Esports,1.0,2.0,True,2:53,"['FlamE', 'Kassio', 'archie']","['AztraL', 'Chausette45', 'Ferra']",1,3,"May 21, 2020 - 21:00 CEST",Europe,2,3,False,True,3.0
+Veloce Esports,Oxygen Esports,5.0,2.0,False,0:00,"['FlamE', 'archie']","['AztraL', 'Chausette45']",2,2,"May 21, 2020 - 21:00 CEST",Europe,2,3,True,False,7.0
+Veloce Esports,Oxygen Esports,4.0,11.0,False,0:00,['archie'],['AztraL'],3,1,"May 21, 2020 - 21:00 CEST",Europe,2,3,False,True,15.0
+Veloce Esports,Oxygen Esports,4.0,0.0,False,0:00,"['FlamE', 'archie']","['Chausette45', 'Ferra']",4,2,"May 21, 2020 - 21:00 CEST",Europe,2,3,True,False,4.0
+Veloce Esports,Oxygen Esports,3.0,9.0,False,0:00,['Kassio'],['AztraL'],5,1,"May 21, 2020 - 21:00 CEST",Europe,2,3,False,True,12.0
+Stormtroopers,Endpoint,1.0,2.0,False,0:00,"['Apparently_Jack', 'Dead-Monster', 'Polar']","['Metsanauris', 'RelatingWave', 'virtuoso']",1,3,"May 21, 2020 - 22:00 CEST",Europe,3,2,False,True,3.0
+Stormtroopers,Endpoint,2.0,1.0,False,0:00,"['Apparently_Jack', 'Dead-Monster']","['Metsanauris', 'RelatingWave']",2,2,"May 21, 2020 - 22:00 CEST",Europe,3,2,True,False,3.0
+Stormtroopers,Endpoint,6.0,5.0,False,0:00,['Apparently_Jack'],['RelatingWave'],3,1,"May 21, 2020 - 22:00 CEST",Europe,3,2,True,False,11.0
+Stormtroopers,Endpoint,1.0,2.0,True,0:24,"['Apparently_Jack', 'Dead-Monster', 'Polar']","['Metsanauris', 'RelatingWave', 'virtuoso']",4,3,"May 21, 2020 - 22:00 CEST",Europe,3,2,False,True,3.0
+Stormtroopers,Endpoint,7.0,6.0,True,0:08,['Apparently_Jack'],['RelatingWave'],5,1,"May 21, 2020 - 22:00 CEST",Europe,3,2,True,False,13.0
+Sandrock Gaming,Nameless,4.0,5.0,False,0:00,"['Ahmad', 'SENZO', 'oKhaliD']","['DmentZa', 'Oscillon', 'Rix_Ronday']",1,3,"May 21, 2020 - 23:00 CEST",Europe,3,1,False,True,9.0
+Sandrock Gaming,Nameless,5.0,2.0,False,0:00,"['Ahmad', 'oKhaliD']","['DmentZa', 'Oscillon']",2,2,"May 21, 2020 - 23:00 CEST",Europe,3,1,True,False,7.0
+Sandrock Gaming,Nameless,8.0,7.0,True,0:28,['oKhaliD'],['DmentZa'],3,1,"May 21, 2020 - 23:00 CEST",Europe,3,1,True,False,15.0
+Sandrock Gaming,Nameless,3.0,2.0,False,0:00,"['Ahmad', 'SENZO', 'oKhaliD']","['DmentZa', 'Oscillon', 'Rix_Ronday']",4,3,"May 21, 2020 - 23:00 CEST",Europe,3,1,True,False,5.0
+5Head,Almans,2.0,5.0,False,0:00,"['M7sN', 'ams', 'bo0odi44']","['FreaKii', 'Godsmilla', 'Striker']",1,3,"May 21, 2020 - 20:00 CEST",Europe,0,3,False,True,7.0
+5Head,Almans,2.0,5.0,False,0:00,"['M7sN', 'ams']","['FreaKii', 'Striker']",2,2,"May 21, 2020 - 20:00 CEST",Europe,0,3,False,True,7.0
+5Head,Almans,4.0,11.0,False,0:00,['ams'],['Striker'],3,1,"May 21, 2020 - 20:00 CEST",Europe,0,3,False,True,15.0
+Servette Geneva Esports,Womped,3.0,2.0,False,0:00,"['Justuszzz', 'Mirror.', 'Zaphare']","['Barist', 'Rise', 'cal']",1,3,"May 21, 2020 - 20:00 CEST",Europe,3,0,True,False,5.0
+Servette Geneva Esports,Womped,5.0,4.0,False,0:00,"['Mirror.', 'Zaphare']","['Rise', 'cal']",2,2,"May 21, 2020 - 20:00 CEST",Europe,3,0,True,False,9.0
+Servette Geneva Esports,Womped,6.0,4.0,False,0:00,['Justuszzz'],['Rise'],3,1,"May 21, 2020 - 20:00 CEST",Europe,3,0,True,False,10.0
+Mousesports,Triple Trouble,1.0,2.0,True,0:23,"['Arju', 'Kuxir', 'Lethamyr']","['Bluey', 'Kash', 'Tadpole']",1,3,"May 21, 2020 - 21:00 CEST",Europe,2,3,False,True,3.0
+Mousesports,Triple Trouble,3.0,4.0,False,0:00,"['Arju', 'Lethamyr']","['Bluey', 'Kash']",2,2,"May 21, 2020 - 21:00 CEST",Europe,2,3,False,True,7.0
+Mousesports,Triple Trouble,8.0,5.0,False,0:00,['Speed'],['Kash'],3,1,"May 21, 2020 - 21:00 CEST",Europe,2,3,True,False,13.0
+Mousesports,Triple Trouble,8.0,4.0,False,0:00,['Speed'],['Bluey'],4,1,"May 21, 2020 - 21:00 CEST",Europe,2,3,True,False,12.0
+Mousesports,Triple Trouble,0.0,4.0,False,0:00,"['Arju', 'Kuxir', 'Lethamyr']","['Bluey', 'Kash', 'Tadpole']",5,3,"May 21, 2020 - 21:00 CEST",Europe,2,3,False,True,4.0
+Totalschaden,Flying Nunchucks,2.0,1.0,False,0:00,"['Alex161', 'Doomayn', 'Gnagflow06']","['Al Dente', 'Maadzz', 'Reganam']",1,3,"May 21, 2020 - 21:00 CEST",Europe,2,3,True,False,3.0
+Totalschaden,Flying Nunchucks,0.0,1.0,False,0:00,"['Alex161', 'Revezy']","['Al Dente', 'Reganam']",2,2,"May 21, 2020 - 21:00 CEST",Europe,2,3,False,True,1.0
+Totalschaden,Flying Nunchucks,7.0,6.0,False,0:00,['Revezy'],['Al Dente'],3,1,"May 21, 2020 - 21:00 CEST",Europe,2,3,True,False,13.0
+Totalschaden,Flying Nunchucks,4.0,5.0,False,0:00,"['Alex161', 'Revezy']","['Al Dente', 'Reganam']",4,2,"May 21, 2020 - 21:00 CEST",Europe,2,3,False,True,9.0
+Totalschaden,Flying Nunchucks,1.0,2.0,False,0:00,"['Alex161', 'Doomayn', 'Gnagflow06']","['Al Dente', 'Maadzz', 'Reganam']",5,3,"May 21, 2020 - 21:00 CEST",Europe,2,3,False,True,3.0
+Momentum Shifters,Randoms,2.0,1.0,False,0:00,"['Ali', 'Brownie', 'Impressive']","['AcroniK', 'Flakes', 'Lauty']",1,3,"May 21, 2020 - 22:00 CEST",Europe,3,1,True,False,3.0
+Momentum Shifters,Randoms,4.0,2.0,False,0:00,"['Ali', 'Yahya']","['AcroniK', 'Flakes']",2,2,"May 21, 2020 - 22:00 CEST",Europe,3,1,True,False,6.0
+Momentum Shifters,Randoms,4.0,6.0,False,0:00,['Ali'],['Flakes'],3,1,"May 21, 2020 - 22:00 CEST",Europe,3,1,False,True,10.0
+Momentum Shifters,Randoms,2.0,1.0,False,0:00,"['Ali', 'Brownie', 'Impressive']","['AcroniK', 'Flakes', 'Lauty']",4,3,"May 21, 2020 - 22:00 CEST",Europe,3,1,True,False,3.0
+Celestial,Team Shaky,6.0,1.0,False,0:00,"['Mikeboy', 'Rizex45', 'RizuaL']","['Cynical', 'Hakeem', 'Oaly']",1,3,"May 21, 2020 - 22:00 CEST",Europe,3,2,True,False,7.0
+Celestial,Team Shaky,4.0,2.0,False,0:00,"['Mikeboy', 'RizuaL']","['Hakeem', 'Oaly']",2,2,"May 21, 2020 - 22:00 CEST",Europe,3,2,True,False,6.0
+Celestial,Team Shaky,5.0,6.0,False,0:00,['RizuaL'],['Oaly'],3,1,"May 21, 2020 - 22:00 CEST",Europe,3,2,False,True,11.0
+Celestial,Team Shaky,5.0,7.0,False,0:00,['Rizex45'],['Oaly'],4,1,"May 21, 2020 - 22:00 CEST",Europe,3,2,False,True,12.0
+Celestial,Team Shaky,3.0,2.0,False,0:00,"['Mikeboy', 'Rizex45', 'RizuaL']","['Cynical', 'Hakeem', 'Oaly']",5,3,"May 21, 2020 - 22:00 CEST",Europe,3,2,True,False,5.0
+Aeriality,John MacDonald's Happy Meal,1.0,3.0,False,0:00,"['BoyScHool Q', 'Sebadam', 'Tylacto']","['Breezi', 'hibbs', 'rehzzy']",1,3,"May 21, 2020 - 23:00 CEST",Europe,0,3,False,True,4.0
+Aeriality,John MacDonald's Happy Meal,2.0,3.0,False,0:00,"['BoyScHool Q', 'Tylacto']","['Breezi', 'hibbs']",2,2,"May 21, 2020 - 23:00 CEST",Europe,0,3,False,True,5.0
+Aeriality,John MacDonald's Happy Meal,2.0,6.0,False,0:00,['Tylacto'],['Breezi'],3,1,"May 21, 2020 - 23:00 CEST",Europe,0,3,False,True,8.0
+Sauce,Story bud,2.0,6.0,False,0:00,"['Mognus', 'Tigreee', 'al0t']","['Gr0wlii', 'jxmes', 'robkiernxn']",1,3,"May 21, 2020 - 23:00 CEST",Europe,3,1,False,True,8.0
+Sauce,Story bud,5.0,1.0,False,0:00,"['Mognus', 'Tigreee']","['Mugg', 'robkiernxn']",2,2,"May 21, 2020 - 23:00 CEST",Europe,3,1,True,False,6.0
+Sauce,Story bud,7.0,6.0,True,0:07,['OSM'],['robkiernxn'],3,1,"May 21, 2020 - 23:00 CEST",Europe,3,1,True,False,13.0
+Sauce,Story bud,2.0,1.0,False,0:00,"['Mognus', 'Tigreee', 'al0t']","['Gr0wlii', 'jxmes', 'robkiernxn']",4,3,"May 21, 2020 - 23:00 CEST",Europe,3,1,True,False,3.0
+Team Singularity,Almans,3.0,2.0,False,0:00,"['Scrub Killa', 'ThO', 'noly']","['FreaKii', 'Godsmilla', 'Striker']",1,3,"May 22, 2020 - 18:00 CEST",Europe,3,2,True,False,5.0
+Team Singularity,Almans,2.0,3.0,False,0:00,"['ThO', 'noly']","['FreaKii', 'Striker']",2,2,"May 22, 2020 - 18:00 CEST",Europe,3,2,False,True,5.0
+Team Singularity,Almans,3.0,6.0,False,0:00,['Scrub Killa'],['Striker'],3,1,"May 22, 2020 - 18:00 CEST",Europe,3,2,False,True,9.0
+Team Singularity,Almans,2.0,0.0,False,0:00,"['Scrub Killa', 'ThO', 'noly']","['FreaKii', 'Godsmilla', 'Striker']",4,3,"May 22, 2020 - 18:00 CEST",Europe,3,2,True,False,2.0
+Team Singularity,Almans,8.0,2.0,False,0:00,"['Scrub Killa', 'ThO']","['FreaKii', 'Striker']",5,2,"May 22, 2020 - 18:00 CEST",Europe,3,2,True,False,10.0
+FC Barcelona,Servette Geneva Esports,3.0,2.0,False,0:00,"['Deevo', 'Ronaky', 'Seeb']","['Justuszzz', 'Mirror.', 'Zaphare']",1,3,"May 22, 2020 - 18:00 CEST",Europe,3,0,True,False,5.0
+FC Barcelona,Servette Geneva Esports,3.0,0.0,False,0:00,"['Deevo', 'Ronaky']","['Mirror.', 'Zaphare']",2,2,"May 22, 2020 - 18:00 CEST",Europe,3,0,True,False,3.0
+FC Barcelona,Servette Geneva Esports,11.0,4.0,False,0:00,['Ronaky'],['Justuszzz'],3,1,"May 22, 2020 - 18:00 CEST",Europe,3,0,True,False,15.0
+Canyons,Triple Trouble,2.0,0.0,False,0:00,"['Stake', 'Tox', 'Zamué']","['Bluey', 'Kash', 'Tadpole']",1,3,"May 22, 2020 - 19:00 CEST",Europe,3,1,True,False,2.0
+Canyons,Triple Trouble,1.0,6.0,False,0:00,"['Stake', 'Tox']","['Bluey', 'Kash']",2,2,"May 22, 2020 - 19:00 CEST",Europe,3,1,False,True,7.0
+Canyons,Triple Trouble,6.0,5.0,False,0:00,['Zamué'],['Bluey'],3,1,"May 22, 2020 - 19:00 CEST",Europe,3,1,True,False,11.0
+Canyons,Triple Trouble,2.0,1.0,True,0:17,"['Stake', 'Zamué']","['Bluey', 'Kash']",4,2,"May 22, 2020 - 19:00 CEST",Europe,3,1,True,False,3.0
+Dignitas,Flying Nunchucks,0.0,1.0,False,0:00,"['Joreuz', 'ViolentPanda', 'Yukeo']","['Al Dente', 'Maadzz', 'Reganam']",1,3,"May 22, 2020 - 19:00 CEST",Europe,3,2,False,True,1.0
+Dignitas,Flying Nunchucks,2.0,0.0,False,0:00,"['Joreuz', 'Yukeo']","['Al Dente', 'Reganam']",2,2,"May 22, 2020 - 19:00 CEST",Europe,3,2,True,False,2.0
+Dignitas,Flying Nunchucks,6.0,1.0,False,0:00,['Joreuz'],['Al Dente'],3,1,"May 22, 2020 - 19:00 CEST",Europe,3,2,True,False,7.0
+Dignitas,Flying Nunchucks,0.0,1.0,False,0:00,"['Joreuz', 'ViolentPanda', 'Yukeo']","['Al Dente', 'Maadzz', 'Reganam']",4,3,"May 22, 2020 - 19:00 CEST",Europe,3,2,False,True,1.0
+Dignitas,Flying Nunchucks,7.0,3.0,False,0:00,['Joreuz'],['Maadzz'],5,1,"May 22, 2020 - 19:00 CEST",Europe,3,2,True,False,10.0
+Tree of a Kind,Momentum Shifters,0.0,1.0,False,0:00,"['Mittaen', 'Tahz', 'eekso']","['Ali', 'Brownie', 'Impressive']",1,3,"May 22, 2020 - 20:00 CEST",Europe,W,DQ,False,True,1.0
+Tree of a Kind,Momentum Shifters,2.0,3.0,False,0:00,"['Mittaen', 'eekso']","['Ali', 'Yahya']",2,2,"May 22, 2020 - 20:00 CEST",Europe,W,DQ,False,True,5.0
+Tree of a Kind,Momentum Shifters,9.0,8.0,True,1:44,['eekso'],['Ali'],3,1,"May 22, 2020 - 20:00 CEST",Europe,W,DQ,True,False,17.0
+Tree of a Kind,Momentum Shifters,4.0,7.0,False,0:00,['eekso'],['Ali'],4,1,"May 22, 2020 - 20:00 CEST",Europe,W,DQ,False,True,11.0
+Yer Maw,Celestial,3.0,4.0,True,4:24,"['Calzafy', 'LuiisP', 'Saizen']","['Mikeboy', 'Rizex45', 'RizuaL']",1,3,"May 22, 2020 - 20:00 CEST",Europe,2,3,False,True,7.0
+Yer Maw,Celestial,2.0,3.0,True,1:11,"['LuiisP', 'Saizen']","['Mikeboy', 'RizuaL']",2,2,"May 22, 2020 - 20:00 CEST",Europe,2,3,False,True,5.0
+Yer Maw,Celestial,7.0,5.0,False,0:00,['LuiisP'],['Rizex45'],3,1,"May 22, 2020 - 20:00 CEST",Europe,2,3,True,False,12.0
+Yer Maw,Celestial,5.0,3.0,False,0:00,['LuiisP'],['Rizex45'],4,1,"May 22, 2020 - 20:00 CEST",Europe,2,3,True,False,8.0
+Yer Maw,Celestial,2.0,4.0,False,0:00,"['Calzafy', 'LuiisP', 'Saizen']","['Mikeboy', 'Rizex45', 'RizuaL']",5,3,"May 22, 2020 - 20:00 CEST",Europe,2,3,False,True,6.0
+Solary,John MacDonald's Happy Meal,3.0,1.0,False,0:00,"['ExoTiiK', 'Kérian', 'Meloshisu']","['Breezi', 'Hibbs', 'rehzzy']",1,3,"May 22, 2020 - 21:00 CEST",Europe,3,0,True,False,4.0
+Solary,John MacDonald's Happy Meal,3.0,2.0,False,0:00,"['ExoTiiK', 'Meloshisu']","['Breezi', 'Hibbs']",2,2,"May 22, 2020 - 21:00 CEST",Europe,3,0,True,False,5.0
+Solary,John MacDonald's Happy Meal,29.0,6.0,False,0:00,['ExoTiiK'],['Breezi'],3,1,"May 22, 2020 - 21:00 CEST",Europe,3,0,True,False,35.0
+Magnifico,Sauce,3.0,1.0,False,0:00,"['AtomiK', 'Emre', 'Yukiss']","['Mognus', 'Tigreee', 'al0t']",1,3,"May 22, 2020 - 21:00 CEST",Europe,3,0,True,False,4.0
+Magnifico,Sauce,2.0,1.0,False,0:00,"['AtomiK', 'Yukiss']","['Mognus', 'Tigreee']",2,2,"May 22, 2020 - 21:00 CEST",Europe,3,0,True,False,3.0
+Magnifico,Sauce,8.0,4.0,False,0:00,['Emre'],['OSM'],3,1,"May 22, 2020 - 21:00 CEST",Europe,3,0,True,False,12.0
+Team Singularity,FC Barcelona,4.0,0.0,False,0:00,"['Scrub Killa', 'ThO', 'noly']","['Deevo', 'Ronaky', 'Seeb']",1,3,"May 22, 2020 - 19:00 CEST",Europe,3,2,True,False,4.0
+Team Singularity,FC Barcelona,2.0,3.0,True,0:55,"['Scrub Killa', 'ThO']","['Deevo', 'Ronaky']",2,2,"May 22, 2020 - 19:00 CEST",Europe,3,2,False,True,5.0
+Team Singularity,FC Barcelona,5.0,6.0,True,0:54,['ThO'],['Ronaky'],3,1,"May 22, 2020 - 19:00 CEST",Europe,3,2,False,True,11.0
+Team Singularity,FC Barcelona,14.0,3.0,False,0:00,['Scrub Killa'],['Ronaky'],4,1,"May 22, 2020 - 19:00 CEST",Europe,3,2,True,False,17.0
+Team Singularity,FC Barcelona,7.0,3.0,False,0:00,"['Scrub Killa', 'ThO']","['Deevo', 'Ronaky']",5,2,"May 22, 2020 - 19:00 CEST",Europe,3,2,True,False,10.0
+Canyons,Dignitas,2.0,3.0,True,0:44,"['Stake', 'Tox', 'Zamué']","['Joreuz', 'ViolentPanda', 'Yukeo']",1,3,"May 22, 2020 - 20:00 CEST",Europe,0,3,False,True,5.0
+Canyons,Dignitas,1.0,2.0,False,0:00,"['Stake', 'Zamué']","['Joreuz', 'Yukeo']",2,2,"May 22, 2020 - 20:00 CEST",Europe,0,3,False,True,3.0
+Canyons,Dignitas,5.0,7.0,False,0:00,['Zamué'],['Joreuz'],3,1,"May 22, 2020 - 20:00 CEST",Europe,0,3,False,True,12.0
+Tree of a Kind,Celestial,2.0,1.0,False,0:00,"['Mittaen', 'Tahz', 'eekso']","['Mikeboy', 'Rizex45', 'RizuaL']",1,3,"May 22, 2020 - 22:00 CEST",Europe,3,0,True,False,3.0
+Tree of a Kind,Celestial,2.0,0.0,False,0:00,"['Mittaen', 'eekso']","['Mikeboy', 'RizuaL']",2,2,"May 22, 2020 - 22:00 CEST",Europe,3,0,True,False,2.0
+Tree of a Kind,Celestial,5.0,4.0,False,0:00,['eekso'],['RizuaL'],3,1,"May 22, 2020 - 22:00 CEST",Europe,3,0,True,False,9.0
+Solary,Magnifico,2.0,4.0,False,0:00,"['ExoTiiK', 'Kérian', 'Meloshisu']","['AtomiK', 'Emre', 'Yukiss']",1,3,"May 22, 2020 - 22:00 CEST",Europe,3,2,False,True,6.0
+Solary,Magnifico,2.0,5.0,False,0:00,"['ExoTiiK', 'Meloshisu']","['AtomiK', 'Yukiss']",2,2,"May 22, 2020 - 22:00 CEST",Europe,3,2,False,True,7.0
+Solary,Magnifico,5.0,4.0,False,0:00,['ExoTiiK'],['Emre'],3,1,"May 22, 2020 - 22:00 CEST",Europe,3,2,True,False,9.0
+Solary,Magnifico,1.0,0.0,False,0:00,"['ExoTiiK', 'Kérian', 'Meloshisu']","['AtomiK', 'Emre', 'Yukiss']",4,3,"May 22, 2020 - 22:00 CEST",Europe,3,2,True,False,1.0
+Solary,Magnifico,2.0,1.0,True,2:47,"['ExoTiiK', 'Kérian', 'Meloshisu']","['AtomiK', 'Emre', 'Yukiss']",5,3,"May 22, 2020 - 22:00 CEST",Europe,3,2,True,False,3.0
+Veloce Esports,Team Singularity,1.0,0.0,True,1:47,"['FlamE', 'Kassio', 'archie']","['Scrub Killa', 'ThO', 'noly']",1,3,"May 22, 2020 - 20:00 CEST",Europe,2,3,True,False,1.0
+Veloce Esports,Team Singularity,1.0,2.0,False,0:00,"['FlamE', 'archie']","['Scrub Killa', 'ThO']",2,2,"May 22, 2020 - 20:00 CEST",Europe,2,3,False,True,3.0
+Veloce Esports,Team Singularity,4.0,5.0,False,0:00,['archie'],['Scrub Killa'],3,1,"May 22, 2020 - 20:00 CEST",Europe,2,3,False,True,9.0
+Veloce Esports,Team Singularity,3.0,0.0,False,0:00,"['FlamE', 'Kassio', 'archie']","['Scrub Killa', 'ThO', 'noly']",4,3,"May 22, 2020 - 20:00 CEST",Europe,2,3,True,False,3.0
+Veloce Esports,Team Singularity,3.0,7.0,False,0:00,['FlamE'],['Scrub Killa'],5,1,"May 22, 2020 - 20:00 CEST",Europe,2,3,False,True,10.0
+Team BDS,Dignitas,4.0,3.0,True,0:25,"['Marc_By_8', 'Monkey Moon', 'Nachitow']","['Joreuz', 'ViolentPanda', 'Yukeo']",1,3,"May 22, 2020 - 21:00 CEST",Europe,2,3,True,False,7.0
+Team BDS,Dignitas,2.0,3.0,False,0:00,"['Marc_By_8', 'Monkey Moon']","['Joreuz', 'Yukeo']",2,2,"May 22, 2020 - 21:00 CEST",Europe,2,3,False,True,5.0
+Team BDS,Dignitas,5.0,7.0,False,0:00,['Monkey Moon'],['Joreuz'],3,1,"May 22, 2020 - 21:00 CEST",Europe,2,3,False,True,12.0
+Team BDS,Dignitas,2.0,1.0,True,1:30,"['Marc_By_8', 'Monkey Moon', 'Nachitow']","['Joreuz', 'ViolentPanda', 'Yukeo']",4,3,"May 22, 2020 - 21:00 CEST",Europe,2,3,True,False,3.0
+Team BDS,Dignitas,4.0,9.0,False,0:00,['Monkey Moon'],['Joreuz'],5,1,"May 22, 2020 - 21:00 CEST",Europe,2,3,False,True,13.0
+Nameless,Tree of a Kind,2.0,3.0,False,0:00,"['DmentZa', 'Oscillon', 'Rix_Ronday']","['Mittaen', 'Tahz', 'eekso']",1,3,"May 22, 2020 - 23:00 CEST",Europe,0,3,False,True,5.0
+Nameless,Tree of a Kind,1.0,2.0,True,1:19,"['Oscillon', 'Rix_Ronday']","['Mittaen', 'eekso']",2,2,"May 22, 2020 - 23:00 CEST",Europe,0,3,False,True,3.0
+Nameless,Tree of a Kind,4.0,8.0,False,0:00,['DmentZa'],['eekso'],3,1,"May 22, 2020 - 23:00 CEST",Europe,0,3,False,True,12.0
+Endpoint,Solary,2.0,1.0,True,0:06,"['Metsanauris', 'RelatingWave', 'virtuoso']","['ExoTiiK', 'Kérian', 'Meloshisu']",1,3,"May 22, 2020 - 23:00 CEST",Europe,2,3,True,False,3.0
+Endpoint,Solary,3.0,6.0,False,0:00,"['Metsanauris', 'virtuoso']","['ExoTiiK', 'Meloshisu']",2,2,"May 22, 2020 - 23:00 CEST",Europe,2,3,False,True,9.0
+Endpoint,Solary,4.0,9.0,False,0:00,['RelatingWave'],['ExoTiiK'],3,1,"May 22, 2020 - 23:00 CEST",Europe,2,3,False,True,13.0
+Endpoint,Solary,3.0,2.0,True,4:19,"['Metsanauris', 'RelatingWave', 'virtuoso']","['ExoTiiK', 'Kérian', 'Meloshisu']",4,3,"May 22, 2020 - 23:00 CEST",Europe,2,3,True,False,5.0
+Endpoint,Solary,1.0,3.0,False,0:00,"['Metsanauris', 'RelatingWave']","['ExoTiiK', 'Meloshisu']",5,2,"May 22, 2020 - 23:00 CEST",Europe,2,3,False,True,4.0
