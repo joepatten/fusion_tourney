@@ -9,4 +9,5 @@ The objective of this project is to scrape both roster and game information for 
 These outputs (as well as additional stats) can also be found in this [Google sheet](https://docs.google.com/spreadsheets/d/1V8O4ABSkezSHgLwecJ5NeG7PLoibam_fNNSPQCScFIw/edit#gid=252665817).
 
 The `teams` df will have the following output:
-<img src="images/teams_fig.jpg" width="320">
+
+<img src="images/teams_fig.jpg">
